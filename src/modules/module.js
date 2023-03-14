@@ -1,0 +1,1 @@
+export const text = "min text från module.js :))";
